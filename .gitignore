@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (optional, but highly recommended if you use one)
+venv/
+env/
+.venv/
+
+# Data files (optional, depending on your project needs)
+# If you don't want to track large datasets in git, uncomment these:
+# data/processed/
+# data/airbus-aircraft-detection/
+# *.npy
+# *.csv
+# *.jpg
+# *.json
