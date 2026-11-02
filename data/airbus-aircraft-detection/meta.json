@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "Airplane",
+            "shape": "polygon",
+            "color": "#630F8A",
+            "geometry_config": {},
+            "id": 13449,
+            "hotkey": ""
+        },
+        {
+            "title": "Truncated_airplane",
+            "shape": "polygon",
+            "color": "#D0021B",
+            "geometry_config": {},
+            "id": 13450,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

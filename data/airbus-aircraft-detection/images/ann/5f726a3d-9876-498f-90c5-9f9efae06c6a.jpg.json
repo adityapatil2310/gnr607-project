@@ -1,0 +1,1226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2560,
+        "width": 2560
+    },
+    "objects": [
+        {
+            "id": 7943135,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.112Z",
+            "updatedAt": "2023-06-27T10:16:39.112Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2258,
+                        2188
+                    ],
+                    [
+                        2319,
+                        2188
+                    ],
+                    [
+                        2319,
+                        2256
+                    ],
+                    [
+                        2258,
+                        2256
+                    ],
+                    [
+                        2258,
+                        2188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943134,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.112Z",
+            "updatedAt": "2023-06-27T10:16:39.112Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2503,
+                        2361
+                    ],
+                    [
+                        2554,
+                        2361
+                    ],
+                    [
+                        2554,
+                        2424
+                    ],
+                    [
+                        2503,
+                        2424
+                    ],
+                    [
+                        2503,
+                        2361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943133,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.111Z",
+            "updatedAt": "2023-06-27T10:16:39.111Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2385,
+                        2198
+                    ],
+                    [
+                        2441,
+                        2198
+                    ],
+                    [
+                        2441,
+                        2251
+                    ],
+                    [
+                        2385,
+                        2251
+                    ],
+                    [
+                        2385,
+                        2198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943132,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.111Z",
+            "updatedAt": "2023-06-27T10:16:39.111Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2451,
+                        2020
+                    ],
+                    [
+                        2514,
+                        2020
+                    ],
+                    [
+                        2514,
+                        2105
+                    ],
+                    [
+                        2451,
+                        2105
+                    ],
+                    [
+                        2451,
+                        2020
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943131,
+            "classId": 13450,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.111Z",
+            "updatedAt": "2023-06-27T10:16:39.111Z",
+            "tags": [],
+            "classTitle": "Truncated_airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2559,
+                        2031
+                    ],
+                    [
+                        2559,
+                        2101
+                    ],
+                    [
+                        2537,
+                        2101
+                    ],
+                    [
+                        2537,
+                        2031
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943130,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.111Z",
+            "updatedAt": "2023-06-27T10:16:39.111Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2237,
+                        2033
+                    ],
+                    [
+                        2300,
+                        2033
+                    ],
+                    [
+                        2300,
+                        2097
+                    ],
+                    [
+                        2237,
+                        2097
+                    ],
+                    [
+                        2237,
+                        2033
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943129,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.111Z",
+            "updatedAt": "2023-06-27T10:16:39.111Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1787,
+                        2443
+                    ],
+                    [
+                        1874,
+                        2443
+                    ],
+                    [
+                        1874,
+                        2514
+                    ],
+                    [
+                        1787,
+                        2514
+                    ],
+                    [
+                        1787,
+                        2443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943128,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.111Z",
+            "updatedAt": "2023-06-27T10:16:39.111Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2469,
+                        1220
+                    ],
+                    [
+                        2537,
+                        1220
+                    ],
+                    [
+                        2537,
+                        1281
+                    ],
+                    [
+                        2469,
+                        1281
+                    ],
+                    [
+                        2469,
+                        1220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943127,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.110Z",
+            "updatedAt": "2023-06-27T10:16:39.110Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2082,
+                        1136
+                    ],
+                    [
+                        2140,
+                        1136
+                    ],
+                    [
+                        2140,
+                        1185
+                    ],
+                    [
+                        2082,
+                        1185
+                    ],
+                    [
+                        2082,
+                        1136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943126,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.110Z",
+            "updatedAt": "2023-06-27T10:16:39.110Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2019,
+                        1078
+                    ],
+                    [
+                        2080,
+                        1078
+                    ],
+                    [
+                        2080,
+                        1141
+                    ],
+                    [
+                        2019,
+                        1141
+                    ],
+                    [
+                        2019,
+                        1078
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943125,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.110Z",
+            "updatedAt": "2023-06-27T10:16:39.110Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2310,
+                        734
+                    ],
+                    [
+                        2395,
+                        734
+                    ],
+                    [
+                        2395,
+                        802
+                    ],
+                    [
+                        2310,
+                        802
+                    ],
+                    [
+                        2310,
+                        734
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943124,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.109Z",
+            "updatedAt": "2023-06-27T10:16:39.109Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2379,
+                        664
+                    ],
+                    [
+                        2449,
+                        664
+                    ],
+                    [
+                        2449,
+                        746
+                    ],
+                    [
+                        2379,
+                        746
+                    ],
+                    [
+                        2379,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943123,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.109Z",
+            "updatedAt": "2023-06-27T10:16:39.109Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1870,
+                        1024
+                    ],
+                    [
+                        1915,
+                        1024
+                    ],
+                    [
+                        1915,
+                        1092
+                    ],
+                    [
+                        1870,
+                        1092
+                    ],
+                    [
+                        1870,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943122,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.109Z",
+            "updatedAt": "2023-06-27T10:16:39.109Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1723,
+                        720
+                    ],
+                    [
+                        1783,
+                        720
+                    ],
+                    [
+                        1783,
+                        796
+                    ],
+                    [
+                        1723,
+                        796
+                    ],
+                    [
+                        1723,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943121,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.109Z",
+            "updatedAt": "2023-06-27T10:16:39.109Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1877,
+                        712
+                    ],
+                    [
+                        1949,
+                        712
+                    ],
+                    [
+                        1949,
+                        791
+                    ],
+                    [
+                        1877,
+                        791
+                    ],
+                    [
+                        1877,
+                        712
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943120,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.109Z",
+            "updatedAt": "2023-06-27T10:16:39.109Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1967,
+                        693
+                    ],
+                    [
+                        2035,
+                        693
+                    ],
+                    [
+                        2035,
+                        783
+                    ],
+                    [
+                        1967,
+                        783
+                    ],
+                    [
+                        1967,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943119,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.109Z",
+            "updatedAt": "2023-06-27T10:16:39.109Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2154,
+                        561
+                    ],
+                    [
+                        2239,
+                        561
+                    ],
+                    [
+                        2239,
+                        625
+                    ],
+                    [
+                        2154,
+                        625
+                    ],
+                    [
+                        2154,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943118,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.108Z",
+            "updatedAt": "2023-06-27T10:16:39.108Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2227,
+                        496
+                    ],
+                    [
+                        2297,
+                        496
+                    ],
+                    [
+                        2297,
+                        557
+                    ],
+                    [
+                        2227,
+                        557
+                    ],
+                    [
+                        2227,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943117,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.108Z",
+            "updatedAt": "2023-06-27T10:16:39.108Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2329,
+                        338
+                    ],
+                    [
+                        2407,
+                        338
+                    ],
+                    [
+                        2407,
+                        410
+                    ],
+                    [
+                        2329,
+                        410
+                    ],
+                    [
+                        2329,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943116,
+            "classId": 13450,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.108Z",
+            "updatedAt": "2023-06-27T10:16:39.108Z",
+            "tags": [],
+            "classTitle": "Truncated_airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2559,
+                        391
+                    ],
+                    [
+                        2559,
+                        458
+                    ],
+                    [
+                        2497,
+                        458
+                    ],
+                    [
+                        2497,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943115,
+            "classId": 13450,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.107Z",
+            "updatedAt": "2023-06-27T10:16:39.107Z",
+            "tags": [],
+            "classTitle": "Truncated_airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2485,
+                        522
+                    ],
+                    [
+                        2555,
+                        522
+                    ],
+                    [
+                        2555,
+                        588
+                    ],
+                    [
+                        2485,
+                        588
+                    ],
+                    [
+                        2485,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943114,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.107Z",
+            "updatedAt": "2023-06-27T10:16:39.107Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2322,
+                        240
+                    ],
+                    [
+                        2393,
+                        240
+                    ],
+                    [
+                        2393,
+                        305
+                    ],
+                    [
+                        2322,
+                        305
+                    ],
+                    [
+                        2322,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943113,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.107Z",
+            "updatedAt": "2023-06-27T10:16:39.107Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        2386,
+                        172
+                    ],
+                    [
+                        2465,
+                        172
+                    ],
+                    [
+                        2465,
+                        241
+                    ],
+                    [
+                        2386,
+                        241
+                    ],
+                    [
+                        2386,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943112,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.107Z",
+            "updatedAt": "2023-06-27T10:16:39.107Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1598,
+                        2351
+                    ],
+                    [
+                        1673,
+                        2351
+                    ],
+                    [
+                        1673,
+                        2419
+                    ],
+                    [
+                        1598,
+                        2419
+                    ],
+                    [
+                        1598,
+                        2351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943111,
+            "classId": 13450,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.107Z",
+            "updatedAt": "2023-06-27T10:16:39.107Z",
+            "tags": [],
+            "classTitle": "Truncated_airplane",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1971
+                    ],
+                    [
+                        29,
+                        1971
+                    ],
+                    [
+                        29,
+                        2039
+                    ],
+                    [
+                        0,
+                        2039
+                    ],
+                    [
+                        0,
+                        1971
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943110,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.106Z",
+            "updatedAt": "2023-06-27T10:16:39.106Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        1976
+                    ],
+                    [
+                        168,
+                        1976
+                    ],
+                    [
+                        168,
+                        2015
+                    ],
+                    [
+                        138,
+                        2015
+                    ],
+                    [
+                        138,
+                        1976
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943109,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.106Z",
+            "updatedAt": "2023-06-27T10:16:39.106Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        751
+                    ],
+                    [
+                        466,
+                        751
+                    ],
+                    [
+                        466,
+                        917
+                    ],
+                    [
+                        309,
+                        917
+                    ],
+                    [
+                        309,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943108,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.106Z",
+            "updatedAt": "2023-06-27T10:16:39.106Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        548
+                    ],
+                    [
+                        357,
+                        548
+                    ],
+                    [
+                        357,
+                        616
+                    ],
+                    [
+                        287,
+                        616
+                    ],
+                    [
+                        287,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943107,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.105Z",
+            "updatedAt": "2023-06-27T10:16:39.105Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        631
+                    ],
+                    [
+                        600,
+                        631
+                    ],
+                    [
+                        600,
+                        705
+                    ],
+                    [
+                        547,
+                        705
+                    ],
+                    [
+                        547,
+                        631
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943106,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.105Z",
+            "updatedAt": "2023-06-27T10:16:39.105Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        1028,
+                        609
+                    ],
+                    [
+                        1089,
+                        609
+                    ],
+                    [
+                        1089,
+                        685
+                    ],
+                    [
+                        1028,
+                        685
+                    ],
+                    [
+                        1028,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943105,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.105Z",
+            "updatedAt": "2023-06-27T10:16:39.105Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        819,
+                        930
+                    ],
+                    [
+                        892,
+                        930
+                    ],
+                    [
+                        892,
+                        1010
+                    ],
+                    [
+                        819,
+                        1010
+                    ],
+                    [
+                        819,
+                        930
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943104,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.105Z",
+            "updatedAt": "2023-06-27T10:16:39.105Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        452
+                    ],
+                    [
+                        406,
+                        452
+                    ],
+                    [
+                        406,
+                        525
+                    ],
+                    [
+                        330,
+                        525
+                    ],
+                    [
+                        330,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943103,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.104Z",
+            "updatedAt": "2023-06-27T10:16:39.104Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        364
+                    ],
+                    [
+                        407,
+                        364
+                    ],
+                    [
+                        407,
+                        432
+                    ],
+                    [
+                        327,
+                        432
+                    ],
+                    [
+                        327,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 7943102,
+            "classId": 13449,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-27T10:16:39.104Z",
+            "updatedAt": "2023-06-27T10:16:39.104Z",
+            "tags": [],
+            "classTitle": "Airplane",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        275
+                    ],
+                    [
+                        412,
+                        275
+                    ],
+                    [
+                        412,
+                        352
+                    ],
+                    [
+                        333,
+                        352
+                    ],
+                    [
+                        333,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
